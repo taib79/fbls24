@@ -9976,7 +9976,7 @@ window[btoa("checkCaptchaSold")] = (i, j) => {
                   <i class="fas fa-paste"></i>
                 </button>
 
-                 <div id="__YZ_currentVersion" style="font-size:10px">version: 2023-12-12T21:16:58.962Z<i class="fa fa-magnifying-glass ml-1" id="__YZ_uptodateIndicator"></i></div>
+                 <div id="__YZ_currentVersion" style="font-size:10px">version: 2024-02-29T10:18:37.1000<i class="fa fa-magnifying-glass ml-1" id="__YZ_uptodateIndicator"></i></div>
                  <div style="display: none; " id="__YZ_versionLink">https://raw.githubusercontent.com/devoosama/oosama/main/new%20version</div>
               </div>
             </div>
